@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0FE56002-1E85-4C68-BEC6-33ED158144D0"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "94C69168-B3F7-4437-8604-F7310E6628E3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MeasureApp/Controller/DetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B560AF69-0676-4183-9A76-67C5315DC46C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MeasureApp/Controller/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "147"
+            endingLineNumber = "147"
+            landmarkName = "viewButtonTapped(button:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B560AF69-0676-4183-9A76-67C5315DC46C - c225c0dc9c58fde7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (MeasureApp.ImageCropResult&lt;__C.UIImage&gt;) -&gt; () in closure #1 () -&gt; () in MeasureApp.ViewController.viewButtonTapped(button: __C.UIButton) -&gt; ()"
+                  moduleName = "MeasureApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///System/Volumes/Data/Other%20Details/MeasureApp/MeasureApp/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "148"
+                  endingLineNumber = "148"
+                  offsetFromSymbolStart = "1596">
+               </Location>
+               <Location
+                  uuid = "B560AF69-0676-4183-9A76-67C5315DC46C - 60d91c555e9ee38c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((image: __C.UIImage, frame: __C.CGRect)) -&gt; __C.UIImage in closure #1 () -&gt; () in closure #1 (MeasureApp.ImageCropResult&lt;__C.UIImage&gt;) -&gt; () in closure #1 () -&gt; () in MeasureApp.ViewController.viewButtonTapped(button: __C.UIButton) -&gt; ()"
+                  moduleName = "MeasureApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///System/Volumes/Data/Other%20Details/MeasureApp/MeasureApp/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "148"
+                  endingLineNumber = "148"
+                  offsetFromSymbolStart = "100">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "751ED6D7-F191-4486-92BE-BC6C77AFC12E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MeasureApp/Controller/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "143"
+            endingLineNumber = "143"
+            landmarkName = "viewButtonTapped(button:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
