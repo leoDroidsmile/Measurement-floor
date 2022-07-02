@@ -6,5 +6,7 @@ Current source doesn't work as I expected but I don't have enough time to fix it
 
 This source was built with XCode 12.5 and Apple Swift version 5.4 using ARKit.
 
-### Demo Video : [here](https://github.com/truedev0420/Measurement-floor/blob/master/Demo/Tutorial.gif)
+<img src = "Demo/Tutorial.gif" />
+
+### Demo Video : [here](https://github.com/truedev0420/Measurement-floor/blob/master/Demo/Tutorial.mp4)
 
